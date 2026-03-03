@@ -11,7 +11,7 @@ license=('GPL')
 depends=('fcitx5')
 makedepends=('git' 'extra-cmake-modules' 'ninja')
 
-source=("git+https://github.com/rijuyuezhu/fcitx5-voxtype-bridge.git#branch=main")
+source=("git+https://github.com/rijuyuezhu/fcitx5-voxtype-bridge.git#tag=v$pkgver")
 sha512sums=('SKIP')
 
 build() {
