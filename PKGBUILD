@@ -2,7 +2,7 @@
 # Contributor: csslayer <wengxt AT gmail com>
 
 pkgname=fcitx5-voxtype-bridge
-pkgver=0.1.0
+pkgver=0.1.1
 pkgrel=1
 pkgdesc="Bridge to Voxtype voice-to-text service"
 arch=('x86_64')
