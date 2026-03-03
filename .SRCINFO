@@ -1,0 +1,15 @@
+pkgbase = fcitx5-voxtype-bridge
+	pkgdesc = Bridge to Voxtype voice-to-text service
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.com/rijuyuezhu/fcitx5-voxtype-bridge
+	arch = x86_64
+	license = GPL
+	makedepends = git
+	makedepends = extra-cmake-modules
+	makedepends = ninja
+	depends = fcitx5
+	source = git+https://github.com/rijuyuezhu/fcitx5-voxtype-bridge.git#branch=main
+	sha512sums = SKIP
+
+pkgname = fcitx5-voxtype-bridge
